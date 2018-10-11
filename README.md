@@ -1,4 +1,4 @@
 # Practice_Work
-A bunch of programs i wrote
+A bunch of programs i wrote for practice
 ## Description
-this are some stuff i worked on over time
+These are some of the stuff i worked on over time at PSI
